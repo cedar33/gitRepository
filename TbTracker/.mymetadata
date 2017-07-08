@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TbTracker"
+  id="myeclipse.1499181075790"
+  context-root="/TbTracker"
+  j2ee-spec="6.0"
+  archive="TbTracker.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
